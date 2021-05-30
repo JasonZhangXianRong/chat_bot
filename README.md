@@ -6,3 +6,5 @@
 encoder-decoder(Luong attention机制)的图大致如下：
 
 ![image.png](https://i.loli.net/2020/10/08/qaGL8uSsI9PTMir.png)
+
+https://www.cnblogs.com/zhangxianrong/p/14828053.html
